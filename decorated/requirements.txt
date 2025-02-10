@@ -1,2 +1,2 @@
 # git+https://github.com/griptape-ai/griptape.git@feature/cloud-utils#egg=griptape[drivers-observability-griptape-cloud]
-griptape
+griptape[drivers-observability-griptape-cloud]
